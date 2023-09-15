@@ -1,4 +1,4 @@
-const biggerValue = 100
+const biggerValue = 1000
 const smallerValue = 1
 const randomNumber = generateRandomNumber()
 
